@@ -19,8 +19,8 @@ Backend API:
 https://task-manager-app-4oz1.onrender.com/api
 
 Demo login:
-- Email: bhavana@gmail.com
-- Password: bhavana@123
+- Email: bhavana@taskflow.com
+- Password: 123456
 
 ## 2. Frontend UI
 
