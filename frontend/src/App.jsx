@@ -89,8 +89,8 @@ export default function App() {
   const [authMode, setAuthMode] = useState("login");
   const [authForm, setAuthForm] = useState({
     name: "",
-    email: "test@gmail.com",
-    password: "test@123",
+    email: "bhavana@gmail.com",
+    password: "bhavana@123",
   });
   const [authError, setAuthError] = useState("");
   const [tasks, setTasks] = useState([]);
@@ -383,7 +383,7 @@ function AuthScreen({ mode, setMode, form, setForm, error, saving, onSubmit }) {
               <input
                 value={form.email}
                 onChange={(event) => setForm({ ...form, email: event.target.value })}
-                placeholder="test@gmail.com"
+                placeholder="bhavana@gmail.com"
                 required
                 type="email"
               />
@@ -394,7 +394,7 @@ function AuthScreen({ mode, setMode, form, setForm, error, saving, onSubmit }) {
                 value={form.password}
                 onChange={(event) => setForm({ ...form, password: event.target.value })}
                 minLength={isLogin ? undefined : 6}
-                placeholder="test@123"
+                placeholder="bhavana@123"
                 required
                 type="password"
               />

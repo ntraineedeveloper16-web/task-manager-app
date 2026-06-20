@@ -18,8 +18,8 @@ Record screen in this order:
 
 1. Open the deployed frontend URL.
 2. Login using:
-   - Email: test@gmail.com
-   - Password: test@123
+   - Email: bhavana@gmail.com
+   - Password: bhavana@123
 3. Show the dashboard.
 4. Explain the "Welcome back" user name.
 5. Show metrics cards.
@@ -59,7 +59,7 @@ Backend API:
 https://task-manager-app-4oz1.onrender.com/api
 
 Demo Credentials:
-- Email: test@gmail.com
-- Password: test@123
+- Email: bhavana@gmail.com
+- Password: bhavana@123
 
 I have also attached a short walkthrough video explaining the frontend, backend, database tables, APIs, and UI flow.

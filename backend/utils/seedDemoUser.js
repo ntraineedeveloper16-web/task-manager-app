@@ -2,11 +2,11 @@ import { Task, User } from "../models/index.js";
 
 export async function seedDemoUser() {
   const [user] = await User.findOrCreate({
-    where: { email: "test@gmail.com" },
+    where: { email: "bhavana@gmail.com" },
     defaults: {
-      name: "Test User",
-      email: "test@gmail.com",
-      password: "test@123",
+      name: "Bhavana M C",
+      email: "bhavana@gmail.com",
+      password: "bhavana@123",
     },
   });
 

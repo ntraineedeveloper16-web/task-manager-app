@@ -27,8 +27,8 @@ https://task-manager-app-4oz1.onrender.com/api
 ## Demo Test Credentials
 
 ```text
-Email: test@gmail.com
-Password: test@123
+Email: bhavana@gmail.com
+Password: bhavana@123
 ```
 
 ## Features
